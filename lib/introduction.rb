@@ -12,3 +12,5 @@ def introduction_with_language(name, language)
 end
 
 introduction_with_language("Dan", "Ember.js")
+
+# my own version of this lab
