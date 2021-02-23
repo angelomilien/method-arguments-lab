@@ -13,4 +13,4 @@ end
 
 introduction_with_language("Dan", "Ember.js")
 
-# my own version of this lab
+# my own version of this lab today
